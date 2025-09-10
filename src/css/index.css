@@ -1,0 +1,9 @@
+@import 'global.css';
+
+h1{
+    font-family: var(--fonteLogo);
+    color: white;
+}
+body{
+    background-color: black;
+}
